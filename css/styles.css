@@ -1,0 +1,8 @@
+@charset "UTF-8";
+/* CSS Document */
+.lobelia {
+  display: block;
+  transform: rotate(90deg);
+  width: 80%;
+  height: auto;
+}
